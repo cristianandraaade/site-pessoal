@@ -1,0 +1,49 @@
+{
+    "amigos": [
+        {
+            "id": 1,
+            "urlFotoMAmigo": "assets/img/daniel.jpeg",
+            "nomeColega": "Daniel Felipe",
+            "urlGit": "https://github.com/Daniel10013"
+        },
+        {
+            "id": 2,
+            "urlFotoMAmigo": "assets/img/lkz.jpeg",
+            "nomeColega": "Lucas Eduardo",
+            "urlGit": "#"
+        },
+        {
+            "id": 1,
+            "urlFotoMAmigo": "assets/img/carlos.jpeg",
+            "nomeColega": "Carlos Henrique",
+            "urlGit": "#"
+        }
+    ],
+    "content": [
+        {
+            "id":1,
+            "tituloConteudo":"Jesus anda sobre as águas",
+            "url":"assets/img/jesus sobre as aguas.jpg"
+        },
+        {
+            "id":2,
+            "tituloConteudo":"Jesus multiplica os pães",
+            "url":"assets/img/jesus e os paes.jpg"
+        },
+        {
+            "id":3,
+            "tituloConteudo":"Jesus ressucita Lázaro",
+            "url":"assets/img/jesus e lazaro.jpg"
+        },
+        {
+            "id":4,
+            "tituloConteudo":"Jesus curando o paralitico",
+            "url":"assets/img/jesus curando o paralitico.jpg"
+        },
+        {
+            "id":5,
+            "tituloConteudo":"Jesus curando o cego",
+            "url":"assets/img/jesus curando o cego.jpg1"
+        }
+    ]
+}
